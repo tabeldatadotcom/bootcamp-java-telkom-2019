@@ -1,0 +1,20 @@
+Soal :
+
+1. Buatlah sebuah program Kalkulator menggunakan Bahasa Java. Dengan ketentuan sebagai berikut:
+*. Saat menjalankan program, user diminta untuk memilih jenis fitur yang akan dipakai terlebih dahulu. Fitur wajib dari program tersebut adalah Penjumlahan, Perkalian, Pembagian, Akar/Kuadrat.
+*. Proses input/output bilangan dan hasil dilakukan melalui console terminal/CMD.
+*. Jika sudah diperoleh bilangan hasil, selanjutnya muncul pilihan apakah User ingin "lanjut" menggunakan kalkulator lagi atau "exit" dari program.
+*. Jika user memilih pilihan lanjut gunakan kalkulator, maka muncul pilihan fitur seperti saat awal program dibuka. Jika user memilih "exit" program maka program ditutup dengan memunculkan kalimat "Terimakasih....<Anda Isi Sendiri>..."
+*. Akan jadi nilai tambah jika Anda menerapkan Clean Code & Modular Programming pada program yang Anda buat.
+
+2. Buatlah Algoritma/Pseudocode dari program Kalkulator yang Anda buat diatas dengan jelas dan rapih. Simpan dalam format .pdf.
+
+3. Diantara dua metode kerja Water Fall atau SCRUM manakah yang Anda ketahui atau bahkan Anda sudah familiar. Silahkan jawab sesuai pengetehuan Anda saja!
+
+
+Kententuan Pengiriman Jawaban:
+1. Batas Akhir Pengiriman Jawaban paling lambat Jumat 25 Oktober 2019 Pukul 23.59 WIB.
+2. Dikirim ke email : sukedynanra@gmail.com
+3. Format Subject : BOOTCAMP-JAVA_NAMA-ANDA_NO-HP-Aktif
+4. Format Lampiran .zip . Didalam folder .zip Terdapat dua folder yaitu folder aplikasi dan folder jawaban soal no 2 & 3.
+5. Yang tidak sesuai ketentuan pengiriman, mohon maaf jawaban tidak akan diperiksa.
